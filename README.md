@@ -53,11 +53,11 @@ python main.py
 
 > *Below are GIF previews of the application in action.*
 
-(assets/results/result1.gif)
+![Demo 1](assets/results/result1.gif)
 
-(assets/results/result2.gif)
+![Demo 2](assets/results/result2.gif)
 
-(assets/results/result3.gif)
+![Demo 3](assets/results/result3.gif)
 
 ##  Project Structure
 
