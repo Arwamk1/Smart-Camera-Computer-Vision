@@ -133,10 +133,10 @@ class SmartCamera:
 
 if __name__ == "__main__":
     # Case 1: Real-time Camera (Webcam)
-    # app = SmartCamera(source=0)
-    # app.run()
+    app = SmartCamera(source=0)
+    app.run()
 
     # Case 2: Run on a Video File
     # Ensure you have a video file named 'test_video.mp4' in the project directory
-    app = SmartCamera(source='test_video.mp4')
-    app.run()
+    # app = SmartCamera(source='assets/video_to_test/test_video.mp4')
+    # app.run()

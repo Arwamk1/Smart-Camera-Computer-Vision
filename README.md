@@ -16,10 +16,10 @@ A real-time computer vision project that detects people, tracks their movement s
 ##  Installation
 
 1. **Clone the repository**
-   ```bash
+   <!-- ```bash
    git clone https://github.com/yourusername/Smart-Camera-Computer-Vision.git
    cd Smart-Camera-Computer-Vision
-   ```
+   ``` -->
 
 2. **Install dependencies**
    ```bash
@@ -48,6 +48,16 @@ python main.py
    - If the displacement exceeds a threshold, the status is **"Moving"**.
    - Otherwise, the status is **"Standing"**.
 4. **Visualization**: OpenCV draws the bounding boxes, status text, and a trail of previous positions.
+
+##  Demo
+
+> *Below are GIF previews of the application in action.*
+
+(assets/results/result1.gif)
+
+(assets/results/result2.gif)
+
+(assets/results/result3.gif)
 
 ##  Project Structure
 
